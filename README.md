@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @longmun
 - 👀 I’m interested in system security
 - 🌱 I’m currently learning automation with python on coursera
-- 💞️ I’m looking to collaborate on building best protection for system and networks 
+- 💞️ I’m looking forward towards building best protection for system and networks 
 - 📫 How to reach me ...
 
 <!---
